@@ -54,7 +54,7 @@ a#scrollUp {
     bottom: 0px;
     right: 10px;
     padding: 5px 10px;
-    background: #FE980F;
+    background: #6bb2b6;
     color: #FFF;
     -webkit-animation: bounce 2s ease infinite;
     animation: bounce 2s ease infinite;
@@ -609,7 +609,7 @@ ul.sub-menu {
 }
 
 .get {
-    background: #FE980F;
+    background: #6bb2b6;
     border: 0 none;
     border-radius: 0;
     color: #FFFFFF;
@@ -620,7 +620,7 @@ ul.sub-menu {
 }
 
 .item button:hover {
-    background: #FE980F;
+    background: #6bb2b6;
 }
 
 .control-carousel {
@@ -631,7 +631,7 @@ ul.sub-menu {
 }
 
 .control-carousel:hover {
-    color: #FE980F;
+    color: #6bb2b6;
 }
 
 .right {
@@ -793,7 +793,7 @@ h2.title:before {
 }
 
 .tooltip-inner {
-    background-color: #FE980F;
+    background-color: #6bb2b6;
     border-radius: 4px;
     color: #FFFFFF;
     max-width: 200px;
@@ -803,7 +803,7 @@ h2.title:before {
 }
 
 .tooltip.top .tooltip-arrow {
-    border-top-color: #FE980F;
+    border-top-color: #6bb2b6;
     border-width: 5px 5px 0;
     bottom: 0;
     left: 50%;
@@ -847,7 +847,7 @@ h2.title {
 }
 
 .productinfo h2 {
-    color: #FE980F;
+    color: #6bb2b6;
     font-family: 'Roboto', sans-serif;
     font-size: 24px;
     font-weight: 700;
@@ -876,7 +876,7 @@ h2.title {
 }
 
 .product-overlay {
-    background: rgba(254, 152, 15, .8);
+    background: rgba(107, 178, 182, .8);
     top: 0;
     display: none;
     height: 0;
@@ -904,7 +904,7 @@ h2.title {
     background: #fff;
     border: 0 none;
     border-radius: 0;
-    color: #FE980F;
+    color: #6bb2b6;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     margin-bottom: 25px;
@@ -912,7 +912,7 @@ h2.title {
 
 .product-overlay .add-to-cart:hover {
     background: #fff;
-    color: #FE980F;
+    color: #6bb2b6;
 }
 
 .product-overlay p {
@@ -933,7 +933,7 @@ h2.title {
 }
 
 .add-to-cart:hover {
-    background: #FE980F;
+    background: #6bb2b6;
     border: 0 none;
     border-radius: 0;
     color: #FFFFFF;
@@ -948,7 +948,7 @@ h2.title {
 }
 
 .add-to-cart:hover {
-    background: #FE980F;
+    background: #6bb2b6;
     color: #FFFFFF;
 }
 
@@ -1162,7 +1162,7 @@ h2.title {
 }
 
 .view-product h3 {
-    background: #FE980F;
+    background: #6bb2b8;
     bottom: 0;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
@@ -1189,7 +1189,7 @@ h2.title {
 }
 
 .item-control i {
-    background: #FE980F;
+    background: #6bb2b8;
     color: #FFFFFF;
     font-size: 20px;
     padding: 5px 10px;
@@ -1234,7 +1234,7 @@ h2.title {
 }
 
 .product-information span span {
-    color: #FE980F;
+    color: #6bb2b8;
     float: left;
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
@@ -1267,7 +1267,7 @@ h2.title {
 }
 
 .cart {
-    background: #FE980F;
+    background: #6bb2b8;
     border: 0 none;
     border-radius: 0;
     color: #FFFFFF;
